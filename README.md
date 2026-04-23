@@ -1,6 +1,6 @@
 # Armour, be gone!
 ### welcome!
-made by Mahvay (or "Mva" if you like the shorter word), welcome to this datapack's page.
+made by Mahvay, welcome to this datapack's page.
 
 the "Armour, be gone!" is a datapack that removes specific recipes. mainly armour, but it also affects other recipes.
 however, you can still use the removed armor, you will only have to find it in various structures.
